@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\wep-api-restaurante.props" />
+</Project>

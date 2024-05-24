@@ -1,0 +1,6 @@
+@wep_api_restaurante_HostAddress = http://localhost:5076
+
+GET {{wep_api_restaurante_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
